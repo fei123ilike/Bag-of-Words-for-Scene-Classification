@@ -6,12 +6,12 @@ This project implements a scene classification system using traditional detector
 * Notice, the SOTA Deep Network Model can easily achieve 90% accuracy, nevertheless,this is still a practice tounderstanding the fundamental computer vision algorithm.*
 
 ## Pipeline
+
 ### Build a dictionary with visual words
 Keypoint detection using Harris detector, detect the corner mostly.
 
 **Example**
 ![alt-text-1](pic/500%20harris%20points_3.jpg "harris detector")
-
 
 Extracte the responses from a series filter banks.
 
@@ -22,9 +22,10 @@ Extracte the responses from a series filter banks.
 ### Build a word map
 Construct a wordmap, in which each pixel maps to the closest word in visual dictionary(calsulate by pdist2).
 
-
 **Example**
+
 ![alt-text-1](pic/sun_aferisdmjeibigjh_wordMap.jpg "wordmap")
 
 # Scene Classifycation and Evaluation
+
 Run EvaluateRecognitionSystem.m
