@@ -11,18 +11,19 @@ Keypoint detection using Harris detector, detect the corner mostly.
 
 **Example**
 ![alt-text-1](pic/500%20harris%20points_3.jpg "harris detector")
-![alt-text-1](pic/500%20random%20points_2.jpg "random points")
 
 
 Extracte the responses from a series filter banks.
 
 **Example**
-![alt-text-1](pic/response_12.jpg "filter1")
-![alt-text-1](pic/response_24.jpg "filter2") 
-![alt-text-1](pic/response_36.jpeg "filter3")
+<img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_12.jpg" width=200>  
+<img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_24.jpg" width=200> 
+<img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_36.jpeg" width=200> 
 
 ### Build a word map
 Construct a wordmap, in which each pixel maps to the closest word in visual dictionary(calsulate by pdist2).
+
+
 **Example**
 ![alt-text-1](pic/sun_aferisdmjeibigjh_wordMap.jpg "wordmap")
 
