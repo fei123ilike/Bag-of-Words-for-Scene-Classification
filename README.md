@@ -17,10 +17,7 @@ Extracte the responses from a series filter banks.
 
 **Example**
 
-
-<img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_12.jpg" width=200>  
-<img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_24.jpg" width=200> 
-<img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_36.jpeg" width=200> 
+<img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_12.jpg" width=200><img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_24.jpg" width=200> <img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_36.jpeg" width=200> 
 
 ### Build a word map
 Construct a wordmap, in which each pixel maps to the closest word in visual dictionary(calsulate by pdist2).
