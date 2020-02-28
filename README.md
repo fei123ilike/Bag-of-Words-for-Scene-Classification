@@ -26,6 +26,6 @@ Construct a wordmap, in which each pixel maps to the closest word in visual dict
 
 ![alt-text-1](pic/sun_aferisdmjeibigjh_wordMap.jpg "wordmap")
 
-# Scene Classifycation and Evaluation
+# Scene Classification and Evaluation
 
 Run EvaluateRecognitionSystem.m
