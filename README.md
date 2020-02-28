@@ -16,6 +16,8 @@ Keypoint detection using Harris detector, detect the corner mostly.
 Extracte the responses from a series filter banks.
 
 **Example**
+
+
 <img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_12.jpg" width=200>  
 <img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_24.jpg" width=200> 
 <img src="https://github.com/fei123ilike/Bag-of-Words-for-Scene-Classification/blob/master/pic/response_36.jpeg" width=200> 
